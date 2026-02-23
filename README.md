@@ -20,3 +20,7 @@
 - Track resources: CS50, fast.ai, Hugging Face, etc.
 
 Monsieur's AI adventure begins here! 🚀
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
