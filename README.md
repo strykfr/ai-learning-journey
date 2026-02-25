@@ -4,27 +4,26 @@
 
 **Daily commitment**: 6 focused hours/day starting February 24, 2026 (NYC time).
 
-**Current level**: True beginner (Phase 0: Setup complete)
+**Current level**: Beginner (completed CS50P Week 0)
 
 ## Progress
 
-### Day 0 – Setup & First Script (Feb 23–24, 2026)
+### Day 1 – Setup & First Script (Feb 23–24, 2026)
 - Installed Python 3.14.2
 - Set up VS Code + Python extension
 - Git + GitHub repo initialized
 - First script: hello.py – "Hello, Monsieur — starting AI journey!"
 
+### Day 2 – Feb 25, 2026 (CS50 Lecture 0 + Problem Set 0)
+- Completed Lecture 0 (functions, variables, input/output, f-strings, string methods)
+- Finished Problem Set 0 (all 5 problems)
+- Added lecture0_pset folder with solutions
+
 ## Next
-- CS50 Python (Harvard) – Lectures & problem sets
-- Build daily commits + mini-projects
-- Track resources: CS50, fast.ai, Hugging Face, etc.
+- CS50 Python Week 1 (conditionals, loops, etc.)
+- More projects + daily commits
 
-Monsieur's AI adventure begins here! 🚀
-
-### Day 1 – Feb 25, 2026
-- Completed Lecture 0
-- Finished Problem Set 0 (all 5 problems: Indoor Voice, Playback Speed, Making Faces, Einstein, Tip Calculator)
+Monsieur's AI adventure continues! 🚀
 
 ## License
-
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
