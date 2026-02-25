@@ -8,7 +8,7 @@
 
 ## Progress
 
-### Day 1 – Setup & First Script (Feb 23–24, 2026)
+### Day 0 – Setup & First Script (Feb 23–24, 2026)
 - Installed Python 3.14.2
 - Set up VS Code + Python extension
 - Git + GitHub repo initialized
@@ -20,6 +20,10 @@
 - Track resources: CS50, fast.ai, Hugging Face, etc.
 
 Monsieur's AI adventure begins here! 🚀
+
+### Day 1 – Feb 25, 2026
+- Completed Lecture 0
+- Finished Problem Set 0 (all 5 problems: Indoor Voice, Playback Speed, Making Faces, Einstein, Tip Calculator)
 
 ## License
 
